@@ -56,10 +56,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Rails Backend] <a name="about-project"></a>
+# 📖 [Hello Rails Frontend] <a name="about-project"></a>
 ![hello-gif](https://i.gifer.com/7P5M.gif)
 
-**[Hello Rails Backend]** is a project that serves as the Backend for to display a random message, that will be consumed by the React app
+**[Hello Rails Frontend]** is a project that serves as the Backend for to display a random message, that will be consumed by the React app
 
 ## 🛠 Built With <a name="built-with"></a>
 
